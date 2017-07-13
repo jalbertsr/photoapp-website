@@ -1,0 +1,132 @@
+.navbar {
+  margin-bottom:0;
+  border: 0;
+  border-radius: 0;
+}
+
+.navbar-default .navbar-brand{
+  color: #1CAA98;
+}
+
+.cover {
+  background-image: url('../img/site_showcase_bg.jpg');
+  height: 580px;
+  color: white;
+  overflow: hidden;
+  padding-top: 40px;
+  margin-bottom: 3%;
+}
+
+.cover h1 {
+  font-size: 50px;
+  margin-top:100px;
+  margin-bottom: 30px;
+}
+
+.cover h1 span {
+  color: #1caa98;
+}
+
+.bgcolor-green{
+  background-color: #1CAA98;
+  margin-top: 3%;
+  height: 420px;
+  clear: both;
+}
+
+.text-color-white{
+  color:white;
+}
+
+.center{
+    display: flex;
+    align-items: center;
+}
+
+h2 + ul{
+  padding:0;
+  font-size: 20px;
+
+}
+
+h2 + ul li{
+  margin-bottom: 6%;
+}
+
+ul.display{
+  display: flex;
+  align-items: center;
+}
+
+ul li{
+  list-style-type: none;
+ }
+
+ul.display li{
+  display: inline;
+  margin: 2%;
+}
+
+ul.display li p{
+  display: inline;
+}
+
+ul.display li a{
+  color: white;
+}
+
+ul.display li p{
+  margin-left: 300px;
+  width: 100%;
+}
+
+.footer-bgcolor-black{
+  background-color: #333333;
+  height: 5%;
+}
+
+.features{
+  height: 15%;
+}
+
+/*-------------------------------- Contact ----------------------------------*/
+
+.about-green{
+  background-color: #1CAA98;
+  margin:0;
+  height: 90px; 
+}
+
+.gamma-title{
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.margin-title{
+  margin-left: 5%;
+}
+
+.container-wrap{
+  height: 50%;
+  width: 100%;
+  margin-top: 5%;
+}
+
+.wrap{
+  margin-left: 5%;
+  width: 45%;
+  height: 35%;
+  display: inline-block;
+  float: left;
+}
+
+.wrap-2{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  width: 35%;
+  height: 20%;
+  display: inline-block;
+  float: right;
+}
