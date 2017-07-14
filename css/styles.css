@@ -27,6 +27,11 @@
   color: #1caa98;
 }
 
+.center{
+  display: flex;
+  justify-content: center;
+}
+
 .bgcolor-green{
   background-color: #1CAA98;
   margin-top: 3%;
